@@ -9,5 +9,3 @@ It is part of one of the trainings I have done with an academy and was created a
 In the different “PROJECTS” developed here, you can appreciate different datasets worked, analyses performed, ways of processing or proceeding with a problem and even conclusions and recommendations given the analyses developed.
 
 PS: They are developed in Spanish
-
-Translated with DeepL.com (free version)
